@@ -1,2 +1,3 @@
 # project-java
-repositório para códigos de estudo Java
+repositório para códigos de estudo Java 
+Estudos
